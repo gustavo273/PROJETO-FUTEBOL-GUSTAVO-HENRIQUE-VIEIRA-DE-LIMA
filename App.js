@@ -56,7 +56,7 @@ export default function App() {
             title: "Brasil",
             headerTitleAlign: "center",
             headerStyle: {
-              backgroundColor: "white",
+              backgroundColor: "black",
             },
             tabBarInactiveBackgroundColor: "white",
             tabBarIcon: ({ color, size }) => (
